@@ -11,14 +11,7 @@
         android:layout_height="fill_parent"
         android:layout_marginLeft="10dp"
         android:layout_marginRight="10dp"
-        android:paddingBottom="90dp" >
-
-
-
-
-
-https://gist.github.com/AKSHARGHELANI/a32a7d99843887a478bd0460c9b038c3
-
+        android:paddingBottom="90dp">
 
         <TextView
         android:text="00:00:00"
